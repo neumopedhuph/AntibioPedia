@@ -1,0 +1,5 @@
+{
+  "name": "AntibioPedia",
+  "description": "Calculadora de Pautas Antibióticas Pediátricas basada en guías SEIP 2023.",
+  "requestFramePermissions": []
+}
